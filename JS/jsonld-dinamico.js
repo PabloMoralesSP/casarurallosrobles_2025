@@ -6,7 +6,8 @@
         "@type": "LodgingBusiness",
         "name": "Casa Rural Los Robles",
         "url": window.location.href, // URL de la página actual
-        "logo": "https://casarurallosrobles.com/Logo_Los_Robles.ico",
+        "image": "http://casarurallosrobles.com/Logo_Los_Robles.png",
+        "logo": "http://casarurallosrobles.com/Logo_Los_Robles.png",,
         "owner": {
             "@type": "Person",
             "name": "Sergio Robledo Monasterio"

@@ -100,10 +100,10 @@ document.addEventListener("DOMContentLoaded", function() {
 document.addEventListener('DOMContentLoaded', function () {
     const bgDiv = document.getElementById('dynamicBgDiv');
     const images = [
-        'url("https://pablomoralessp.github.io/casarurallosrobles/ImagenesGaleria/FondosTitulos/20210905_124604.jpg")',
-        'url("https://pablomoralessp.github.io/casarurallosrobles/ImagenesGaleria/FondosTitulos/20210905_131211.jpg")',
-        'url("https://pablomoralessp.github.io/casarurallosrobles/ImagenesGaleria/FondosTitulos/20210904_124606.jpg")',
-        'url("https://pablomoralessp.github.io/casarurallosrobles/ImagenesGaleria/FondosTitulos/IMG-20200619-WA0026.jpg")'
+        'url("http://casarurallosrobles.com/ImagenesGaleria/FondosTitulos/20210905_124604.jpg")',
+        'url("http://casarurallosrobles.com/ImagenesGaleria/FondosTitulos/20210905_131211.jpg")',
+        'url("http://casarurallosrobles.com/ImagenesGaleria/FondosTitulos/20210904_124606.jpg")',
+        'url("http://casarurallosrobles.com/ImagenesGaleria/FondosTitulos/IMG-20200619-WA0026.jpg")'
     ];
 
     // Selecciona una imagen aleatoria como primera imagen

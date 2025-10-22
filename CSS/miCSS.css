@@ -94,7 +94,7 @@
 		
 		.casita:hover {
 		  transform: translate(50%, 50%) scale(2.9); /* Aumenta el tamaño de la imagen al pasar el ratón */
-		   z-index: 500; /* Asegura que la imagen ampliada esté por encima de otros elementos */
+		   z-index: 910; /* Asegura que la imagen ampliada esté por encima de otros elementos */
 		}
 
 
@@ -880,7 +880,7 @@
 		  position: fixed;
 		  top: 0;
 		  left: 0;
-		  z-index: 1000;
+		  z-index: 900;
 		  padding-top: 50px; /*este valor baja la foto de la galeria para que no sea tapada con el menu fijo de navegación*/
 		  box-sizing: border-box;
 		  overflow-y: auto; /* Permitir desplazamiento vertical cuando se está monstrando la imagen grande */
